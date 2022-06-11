@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
-name: 'Yashita Namdeo'
-subtitle: 'I love exploring new things!'
+name: 'James Bell'
+subtitle: 'I love '
 buttonText: 'Get In Touch'
 ---
 

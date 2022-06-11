@@ -1,8 +1,8 @@
 ---
 date: '2021-04-18'
 title: 'Whatsapp Chat Analysis'
-github: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis'
-external: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis/blob/main/WhatsApp%20Chat%20Analysis.ipynb'
+github: 'https://github.com/infiniteaengus/WhatsApp-Chat-Analysis'
+external: 'https://github.com/infiniteaengus/WhatsApp-Chat-Analysis/blob/main/WhatsApp%20Chat%20Analysis.ipynb'
 tech:
   - Python
   - Regex

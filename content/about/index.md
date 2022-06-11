@@ -2,16 +2,23 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Coding
-  - Reading
-  - Painting
-  - Crafting
-  - Problem Solving
-  - Team Management
-  - Mentoring
+  - Blockchain
+  - Solidity
+  - Smart Contract
+  - Hardhat
+  - Truffle
+  - C / C++
+  - Python
+  - Javascript
+  - Typescript
+  - React
+  - Next.js
+  - Node / Express
+  - PHP
+  - Laravel
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm James Namdeo, from New York.
 
 I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
 

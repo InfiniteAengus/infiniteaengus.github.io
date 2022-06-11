@@ -49,6 +49,20 @@ const GlobalStyle = createGlobalStyle`
     }
   }
 
+  body::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background-color: #495670;
+    border: 3px solid #0a192f;
+    border-radius: 10px;
+  }
+
+  body::-webkit-scrollbar-track {
+    background: #0a192f;
+  }
+
   ::selection {
     background-color: ${colors.slate};
     color: ${colors.lightestSlate};

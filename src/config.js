@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'James Bell',
   siteDescription:
-    'James Bell is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'James Bell is an incoming Software Developer, based in United States, who loves learning new things and helping tech beginners. He is an experienced FullStack and Blockchain developer',
   siteKeywords:
     'James Bell, James, Bell, infinite, infiniteaengus, InfiniteAengus, james, bell, software engineer, web developer, javascript, python, react, node, express, nft, smart contract, solidity, blockchain',
   siteUrl: 'https://infiniteaengus.github.io/',
